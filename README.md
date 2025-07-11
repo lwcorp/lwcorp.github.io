@@ -15,7 +15,7 @@
 1. Rename it to `[your username].github.io`.
    - *[Optional]* Rename to something else (like `myrepos`) if you wish for it to appear as a `subfolder`.
 1. In your own repo's `Settings=>Pages` choose the main branch and Save.
-1. In your own repo, update the link in the About section to `[your username].github.io` or `[your username].github.io/myrepos/` (depending on step 2).
+1. *[Optional]* If you added a subfolder in step 2, then edit your own repo's About section, uncheck `Use your GitHub Pages website` and write  `[your username].github.io/myrepos/` **manually**.
 
 That's it!
 
